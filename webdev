@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PAVEL HUZA  UI & UX designer
+        <link/pavelhuza.com>
+    </title>
+</head>
+<body>
+    <nav>
+        <a href="#">PORTFOLIO</a>
+        <a href="#port">RECENT WORK</a>
+        <a href="#about">ABOUT</a>
+        <a href="#contact">CONTACT</a>
+    </nav>
+    <h2 style="text-align: center;">PAVEL HUZA</h2>
+    <header>I'm a Czech Republic based web designer & front‑end developer focused on crafting clean  & user‑friendly experiences.</header>
+<div id="port">
+    <h3>PORTFOLIO</h3>
+    <header>Below you can see some projects I've been working on lately. I divide each project into four follow-up areas: comprehensive research, wireframing, design & development. This process allows me to create great product with client goals in mind.
+
+        <h1>Restu mobile site</h1>
+        <p>For czech startup Restu.cz I created mobile version of their site. I was responsible for UI design, interactions & front-end development.
+        </p>
+        
+        <img src="http://www.pavelhuza.com/images/portfolio/restu-mobile-large.jpg" alt="three phones">
+
+        <h2>Danfil Kids Jewellery</h2>
+        <p>
+            Client wanted online configurator, where customers can create custom kids jewellery. I was responsible for UI design, interaction design & front-end development.
+        </p>
+
+        <img src="http://www.pavelhuza.com/images/portfolio/cutie-jewellery-large.jpg">
+
+        <h3>CT Author Cup</h3>
+
+        <p>CT Author Cup is traditional mountain bike race with eighteen years experience. I provided them everything from logo design, website design & development to printed materials.</p>
+
+        <img src="http://www.pavelhuza.com/images/portfolio/ctauthorcup-large.jpg">
+        <div style="text-align: center;">
+
+        <h2>Mujjo accesories</h2>
+        <p>Fun side project, where I designed simple shopping experience for one of my favourite apple accessory.</p>
+
+        <img src="http://www.pavelhuza.com/images/portfolio/mujjo-large.jpg">
+        </div>
+        <div style="text-align: center;">
+
+        <h2>Heureka mobile experience</h2>
+        <p>With team at Heureka we are preparing new mobile experience for our site. I'm responsible for UI / UX & interaction design.</p>
+
+        <img src="http://www.pavelhuza.com/images/portfolio/heureka-mobile-large.jpg"></div>
+
+        <div id="about">
+        <h3 style="text-align: center;">ABOUT ME</h3>
+
+        <p>
+            I'm web designer & front-end developer with 7 years of professional experience. I'm interested in all kinds of visual communication, but my major focus is on designing web, mobile & tablet interfaces. I also have skills in other fields like branding, icon design or web development.
+
+Earlier I was full-time freelancer for 6 years behind my studio Precise Design. Currently I'm working for little overgrown czech “start-up” called Heureka.cz Restu.cz as a Senior UI/UX designer Product designer.
+        </p>
+    </div>
+    <div style="text-align: center;" id="contact">
+        <h3 style="text-align: center;">
+            OK LET'S CREATE 
+            SOMETHING GREAT
+        </h3>
+        <P>
+            If you my work and have some cool project to work on, just send me direct message or contact me through social sites listed below. 
+        </P>
+    </div>
+    <div style="text-align: center;">
+        <footer>
+            <a href="#">TWITTER</a>
+            <a href="#">DRIBBBLE</a>
+            <a href="">BEHANCE</a>
+            <a href="#">FACEBOOK</a>
+            <a href="">INSTAGRAM</a>
+
+
+
+
+
+
+        </footer>
+    </div>
+</body>
+</html>
